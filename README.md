@@ -1,3 +1,5 @@
-We learnt about neural network from scratch ad its implementation.
-Then we learnt about CNN and RNN and its implementation
-We are now leaning the Meta for Developers API offered by instagram
+Neural network from scratch ad its implementation.
+Learnt about CNN and RNN and its implementation
+Understood API offered by Reddit
+Implemented CNN based model for image classification
+
